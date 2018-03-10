@@ -5,7 +5,6 @@ categories:
     - 软件配置
 tags: 
     - maven
-layout: private
 ---
 
 一些常用的maven
