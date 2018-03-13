@@ -1,6 +1,16 @@
-# redisson 分布式锁,分布式实时对象简单分析
+---
+title: redisson 分布式锁,分布式实时对象简单分析
+date: 2018-03-11 
+categories:
+    - 分布式
+tags: 
+    - redisson
+    - 分布式
+---
 
+分布式锁和分布式实时对象简单分析
 FLUSHALL 
+<!--more-->
 ## 分布式锁
 以下内容是边debug边redis-cli上查看
 
