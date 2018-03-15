@@ -1,5 +1,5 @@
 #!/bin/bash
-meaasge=$1
+message=$1
 #hexo clean
 #hexo g
 #hexo deploy
