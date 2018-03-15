@@ -1,9 +1,8 @@
 #!/bin/bash
-message=$1
-#hexo clean
-#hexo g
-#hexo deploy
+hexo clean
+hexo g
+hexo deploy
 git add .
-git commit -m "$message"
+git commit -m "$1"
 git push origin master 
 
