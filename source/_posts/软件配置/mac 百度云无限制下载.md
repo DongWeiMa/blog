@@ -35,7 +35,7 @@ brew install aria2
 ```
 
 ### 安装chrome插件
-https://github.com/DongWeiMa/BaiduExporter
+https://github.com/acgotaku/BaiduExporter
 这里下载这个文件 然后安装到chrome就可以了
 
 ## 配置aria2
