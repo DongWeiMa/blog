@@ -31,7 +31,7 @@ Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支
 用brew安装比较方便,也可以通过其他的方式(去官网自己看吧)
 
 ```
-brew install arai2
+brew install aria2
 ```
 
 ### 安装chrome插件
