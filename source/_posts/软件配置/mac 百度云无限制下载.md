@@ -34,9 +34,9 @@ Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支
 brew install arai2
 ```
 
-### 安装chrom插件
+### 安装chrome插件
 https://github.com/DongWeiMa/BaiduExporter
-这里下载这个文件 然后安装到chrom就可以了
+这里下载这个文件 然后安装到chrome就可以了
 
 ## 配置aria2
 创建aria2.conf文件,将以下内容写到文件中
